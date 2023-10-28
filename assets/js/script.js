@@ -8,7 +8,7 @@ window.addEventListener("load", function () {
   this.setTimeout(() => {
     preloader.classList.add("loaded");
   document.body.classList.add("loaded");
-}, )
+}, 1500 )
 });
 
 
